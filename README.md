@@ -55,17 +55,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6)
+<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 
 </div>
 
