@@ -48,14 +48,14 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=ezz3r&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezz3r&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=ezz3r&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=58A6FF&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=ezz3r&color=58A6FF&style=flat-square)
 
 *"The best way to learn is to build."*
 
