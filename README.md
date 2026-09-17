@@ -1,26 +1,15 @@
 <div align="center">
 
-# Hi, I'm Malik 👋
-### Apprentice IT Specialist – Application Development · Game Dev Enthusiast
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,100:89b4fa&height=160&section=header&text=Malik&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Application%20Development%20%C2%B7%20Game%20Dev&descAlignY=65&descSize=16" width="100%"/>
+
+<br/>
+
+![Python](https://img.shields.io/badge/-Python-1e1e2e?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-1e1e2e?style=flat-square&logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-1e1e2e?style=flat-square&logo=unity&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-1e1e2e?style=flat-square&logo=javascript&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-1e1e2e?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
----
-
-## About Me
-
-- 🎓 Training as **Fachinformatiker für Anwendungsentwicklung** (IT Specialist – Application Development)
-- 🎮 Building games with **Unity & C#**
-- 🌐 Also working with HTML, CSS, JavaScript, Python and Java
-- 📚 Focused on continuous learning and hands-on projects
-
----
-
-## Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<br/>
