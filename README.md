@@ -23,9 +23,9 @@
 
 <br/>
 
-<table align="center">
+<table align="center" border="0" cellspacing="0" cellpadding="0" style="border:none;">
 <tr>
-<td><a href="https://github-stats-extended.vercel.app/api?username=ezz3r&hide_rank=true&custom_title=Github%20Stats&show_icons=true&include_all_commits=true&theme=dark_github"><img src="https://github-stats-extended.vercel.app/api?username=ezz3r&hide_rank=true&custom_title=Github%20Stats&show_icons=true&include_all_commits=true&theme=dark_github"/></a></td>
-<td><a href="https://github-stats-extended.vercel.app/api/top-langs?username=ezz3r&langs_count=4&theme=dark_github"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=ezz3r&langs_count=4&theme=dark_github"/></a></td>
+<td style="border:none;"><a href="https://github-stats-extended.vercel.app/api?username=ezz3r&hide_rank=true&custom_title=Github%20Stats&show_icons=true&include_all_commits=true&theme=dark_github"><img src="https://github-stats-extended.vercel.app/api?username=ezz3r&hide_rank=true&custom_title=Github%20Stats&show_icons=true&include_all_commits=true&theme=dark_github"/></a></td>
+<td style="border:none;"><a href="https://github-stats-extended.vercel.app/api/top-langs?username=ezz3r&langs_count=4&theme=dark_github"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=ezz3r&langs_count=4&theme=dark_github"/></a></td>
 </tr>
 </table>
