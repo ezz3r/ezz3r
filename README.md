@@ -29,3 +29,13 @@
 <td style="border:none;"><a href="https://github-stats-extended.vercel.app/api/top-langs?username=ezz3r&langs_count=4&theme=dark_github&hide_border=true"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=ezz3r&langs_count=4&theme=dark_github&hide_border=true"/></a></td>
 </tr>
 </table>
+
+<br/>
+
+<div align="center">
+
+**Owner of:**
+
+<a href="https://github.com/moy-rayon"><img src="logo.png" width="120"/></a>
+
+</div>
