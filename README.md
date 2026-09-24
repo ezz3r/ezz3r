@@ -18,9 +18,9 @@
 <br/><br/>
 <br/><br/>
 
-<hr width="80%"/>
 
 <div align="center">
+<hr width="80%"/>
 
 ![Python](https://img.shields.io/badge/-Python-1e1e2e?style=flat-square&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-1e1e2e?style=flat-square&logo=csharp&logoColor=white)
