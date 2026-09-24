@@ -1,7 +1,23 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c1ff72,100:c1ff72&height=160&section=header&text=Malik&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Application%20Development%20%C2%B7%20Game%20Dev&descAlignY=65&descSize=16" width="100%"/>
+
 <br/>
+
+**Owner of:**
+
+<a href="https://github.com/moy-rayon"><img src="logo.png" width="120"/></a>
+
+</div>
+
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<div align="center">
 
 ![Python](https://img.shields.io/badge/-Python-1e1e2e?style=flat-square&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-1e1e2e?style=flat-square&logo=csharp&logoColor=white)
@@ -17,13 +33,5 @@
 ![FastMCP](https://img.shields.io/badge/-FastMCP-1e1e2e?style=flat-square&logo=anthropic&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-1e1e2e?style=flat-square&logo=mongodb&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/-Obsidian-1e1e2e?style=flat-square&logo=obsidian&logoColor=white)
-
-</div>
-
-<div align="center">
-
-**Owner of:**
-
-<a href="https://github.com/moy-rayon"><img src="logo.png" width="120"/></a>
 
 </div>
