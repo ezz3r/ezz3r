@@ -13,9 +13,6 @@
 <br/><br/>
 <br/><br/>
 <br/><br/>
-<br/><br/>
-<br/><br/>
-
 <div align="center">
 <hr width="65%"/>
 
