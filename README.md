@@ -17,6 +17,9 @@
 <br/><br/>
 <br/><br/>
 <br/><br/>
+
+<hr width="100%"/>
+
 <div align="center">
 
 ![Python](https://img.shields.io/badge/-Python-1e1e2e?style=flat-square&logo=python&logoColor=white)
