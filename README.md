@@ -18,7 +18,7 @@
 <br/><br/>
 <br/><br/>
 
-<hr width="100%"/>
+<hr width="80%"/>
 
 <div align="center">
 
