@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c1ff72,100:c1ff72&height=160&section=header&text=Malik&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Application%20Development%20%C2%B7%20Game%20Dev&descAlignY=65&descSize=16" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=160&section=header&text=Malik&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Application%20Development%20%C2%B7%20Game%20Dev&descAlignY=65&descSize=16" width="100%"/>
 </div>
 
 <br/><br/>
